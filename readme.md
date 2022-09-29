@@ -1,6 +1,7 @@
 # Slay the Spore
 
-資工 1A-108502005 戴裕笙
+by 資工 1A-108502005 戴裕笙
+執行方式 run /src/Main/Main.java
 
 ### 一、前言
 
@@ -25,7 +26,7 @@
 
 ##### 1.主畫面
 
-![main menu](./MainMenu.png)
+![main menu](./img/MainMenu.png)
 
 ↑圖1-主畫面
 
@@ -39,7 +40,7 @@
 
 ##### 2.戰鬥畫面
 
-![combat screen](./Combat.png)
+![combat screen](./img/Combat.png)
 
 ↑圖2-戰鬥畫面
 
@@ -61,13 +62,13 @@
 
 ⑨Discard:棄牌堆，按下以檢視棄牌堆。
 
-![combat buff](./Combat_Buff.png)
+![combat buff](./img/Combat_Buff.png)
 
 ↑圖3-增益顯示
 
 ##### 3.勝利畫面
 
-![win page](./WinPage.png)
+![win page](./img/WinPage.png)
 
 ↑圖4-勝利畫面
 ①Stage:顯示目前的關卡數
@@ -85,7 +86,7 @@
 
 ##### 4.牌堆畫面
 
-![deck](./Deck.png)
+![deck](./img/Deck.png)
 
 ↑圖5-牌堆畫面
 
@@ -99,7 +100,7 @@
 
 ##### 5.休息點畫面
 
-![rest site](./RestSite.png)
+![rest site](./img/RestSite.png)
 
 ↑圖6-休息點畫面
 
@@ -107,7 +108,7 @@
 
 ##### 6.商店畫面
 
-![shop](./Shop.png)
+![shop](./img/Shop.png)
 
 ↑圖7-商店畫面
 
